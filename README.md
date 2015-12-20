@@ -2,6 +2,8 @@
 # python-thursday-adventure-2
 The sequel to the 2015 favorite, Python Thursday Adventure
 
+![Travis-CI](https://travis-ci.org/jamalhansen/python-thursday-adventure-2.svg?branch=master)
+
 ## Dependencies
 Dependencies are managed for this project with pip.  Basic proceedures for installing and saving dependencies is below, additional information can be found in the [pip documentation](https://pip.readthedocs.org/en/1.1/requirements.html#).
 
