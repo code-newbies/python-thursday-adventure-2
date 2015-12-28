@@ -85,7 +85,7 @@ The above command makes a virtual environment named pta2 that uses Python 3.  Wh
 
 The final step to setup the project is to install the required modules.  These are stored in the file requirements.txt and can be installed with pip using the following command.
 
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ### Starting an issue
 
