@@ -77,7 +77,7 @@ Now that it is installed you can create a virtual Python environment using Pytho
 
 The above command makes a virtual environment named pta2 that uses Python 3.  When you want to exit this environment use the command ```deactivate```.  When you want to work on the environment again use ```workon pta2```.
 
-*Note* - If you are using Windows the location -/usr/bin/python3- will not be valid.  Replace this value with the location of your Python 3.
+**Note** - If you are using Windows the location */usr/bin/python3* will not be valid.  Replace this value with the location of your Python 3.
 
 #### Install the requirements for the project
 
