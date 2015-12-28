@@ -69,15 +69,17 @@ Next you will probably want to setup a virtual environment for Python 3.  This i
 
 If you have not installed the Python module mkvirtualenv, it will make this process easy.  To install this module with pip use:
 
-``` pip install mkvirtualenv```
+```pip install mkvirtualenv```
+
+**Note**: If you are using Linux or a Mac you may need to use *sudo* before the previous command.
 
 Now that it is installed you can create a virtual Python environment using Python 3 with the following command.
 
-``` mkvirtualenv -p /usr/bin/python3 pta2 ```
+```mkvirtualenv -p /usr/bin/python3 pta2 ```
 
 The above command makes a virtual environment named pta2 that uses Python 3.  When you want to exit this environment use the command ```deactivate```.  When you want to work on the environment again use ```workon pta2```.
 
-**Note** - If you are using Windows the location */usr/bin/python3* will not be valid.  Replace this value with the location of your Python 3.
+**Note**: If you are using Windows the location */usr/bin/python3* will not be valid.  Replace this value with the location of your Python 3.
 
 #### Install the requirements for the project
 
