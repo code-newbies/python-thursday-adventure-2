@@ -93,7 +93,7 @@ When you are ready to start working on an issue you will want to create a featur
 
 ```git checkout -b <branch name>```
 
-where <branch name> is your initals and a short description of your issue.  For instance *jh-fixes-flux-capacitor*
+where \<branch name\> is your initals and a short description of your issue.  For instance *jh-fixes-flux-capacitor*
 
 ### Come to Python Thursday!
 Join us at 9PM EST on Thursday to review code and talk about the project. Come with questions, code to show, and be ready to share what you're learning!
