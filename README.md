@@ -5,7 +5,9 @@ The sequel to the 2015 favorite, [Python Thursday Adventure](https://github.com/
 
 This is the project for the CodeNewbie Python Thursday group. You can join the group [on Slack](https://codenewbie.typeform.com/to/uwsWlZ). To get started, read the following, and if you get stuck, reach out to Jamal (github: @jamalhansen, slack: @jamal) the host.
 
-![Travis-CI](https://travis-ci.org/code-newbies/python-thursday-adventure-2.svg?branch=master)
+.. image:: https://travis-ci.org/code-newbies/python-thursday-adventure-2.svg
+   :target: https://travis-ci.org/code-newbies/python-thursday-adventure-2
+   :alt: Build Status
 
 ### About this project
 To start out, we are building a command line game to help us develop our Python skills (and review OOP principles). We meet weekly [on Slack](https://codenewbie.typeform.com/to/uwsWlZ) in the "python-thursday" channel on Thursday at 9PM EST, so mark your calendars and stop by! There, we'll review the project, look at code together, and share what we learned.
