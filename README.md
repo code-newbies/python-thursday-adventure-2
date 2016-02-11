@@ -67,19 +67,13 @@ Once the repo is cloned, move into the closed repository with the following
 
 Next you will probably want to setup a virtual environment for Python 3.  This is not absolutely necessary but it can help to make using Python 3 and this project more straightforward.
 
-If you have not installed the Python module mkvirtualenv, it will make this process easy.  To install this module with pip use:
+You can create a virtual Python environment using Python 3 with the following command.
 
-```pip install mkvirtualenv```
+`python -m venv pta2env`
 
-**Note**: If you are using Linux or a Mac you may need to use *sudo* before the previous command.
+**Note**: If your Python uses the command `python3` (looking at you, Mac and Linux), use `python3 -m venv pta2env`.
 
-Now that it is installed you can create a virtual Python environment using Python 3 with the following command.
-
-```mkvirtualenv -p /usr/bin/python3 pta2 ```
-
-The above command makes a virtual environment named pta2 that uses Python 3.  When you want to exit this environment use the command ```deactivate```.  When you want to work on the environment again use ```workon pta2```.
-
-**Note**: If you are using Windows the location */usr/bin/python3* will not be valid.  Replace this value with the location of your Python 3.
+The above command makes a virtual environment named pta2env.  When you want to exit this environment use the command ```deactivate```.  When you want to work on the environment again use `source pta2env/bin/activate`. For Windows uses, working on the environment will require you to type `pta2env\Scripts\activate`.
 
 #### Install the requirements for the project
 
