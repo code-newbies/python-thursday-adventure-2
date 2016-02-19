@@ -379,3 +379,4 @@ overgeneral-exceptions=Exception
 
 # These are our options that makes it lite!
 disable=missing-docstring
+disable=too-few-public-methods
