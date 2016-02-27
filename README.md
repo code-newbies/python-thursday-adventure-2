@@ -33,7 +33,7 @@ You'll need to have installed Python 3 to begin. The TL;DR instructions: head to
 ### How to contribute
 We use pull requests so you can get your code reviewed by others before merging it into the project. Code reviews are a great way to learn and collaborate. Here's how the process works:
 
-1. Join our [Slack community](https://codenewbie.typeform.com/to/uwsWlZ) and tell your host @phillipg you want to join the project repo
+1. Join our [Slack community](https://codenewbie.typeform.com/to/uwsWlZ) and tell your host @jamal you want to join the project repo
 2. The host will invite you to join as a collaborator. You **MUST** be a collaborator to join the project and pick up features.
 3. Accept invite from Github to join as a collaborator.
 - Look through the issues list and pick a feature you want to work on.
